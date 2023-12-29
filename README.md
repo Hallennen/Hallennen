@@ -9,10 +9,11 @@ Graduado em Sistema de Informação e Pós graduando em Engenharia de Software.
 
 
 ## 🛠 Habilidades
-Python, Django, PostgreSQL, HTML, CSS...
+Python, Django, Flask, PostgreSQL, HTML, CSS...
 
 ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=) 
 ![DJANGO](https://img.shields.io/badge/django-000?style=for-the-badge&logo=Django&logoColor=)
+![FLASK](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=Flask&logoColor=)
 ![SQL](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=PostgreSQL&logoColor=)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&logoColor=)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=)
