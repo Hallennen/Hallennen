@@ -2,7 +2,7 @@
 # Hallennen Marinho
 
 Desenvolvedor Júnior com muito fervor pela área de programação, curioso e dedicado.
-Graduado em Sistema de Informação e Pós graduando em Engenharia de Software.
+Graduado em Sistema de Informação e Pós graduado em Engenharia de Software.
 
 
 
